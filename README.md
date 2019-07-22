@@ -2,6 +2,16 @@
 
 A hosted repository of all known SLP token icons. All tokens added here will be served via an extremely censorship resistant endpoint located at tokens.bch.sx/`[size]`/`[txid]`.png
 
+## Usage
+
+The format is tokens.bch.sx/`{size}`/`{txid}`.`{format}`
+
+`{size}` can be any number from 1-2399 (or "original")
+
+`{txid}` is the transaction id of the token genesis transaction
+
+`{format}` can be png, jpg, tiff or webp
+
 ## Examples
 
 `https://tokens.bch.sx/128/4ac91a7245936cda41cfa616c342cbcd111a72a60bf37fdf8e556926cbaa7b28.png`
