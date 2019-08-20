@@ -32,4 +32,4 @@ Alternatively open an issue with links to an icon in at least 128x128 and I'll r
 
 [Simpleledger.info](https://simpleledger.info)
 
-[TokenFaucet.org](http://tokenfaucet.forumotion.com/t4-new-tokens-added-may-27-2019)
+[Bitcoin.com Explorer](https://explorer.bitcoin.com)
