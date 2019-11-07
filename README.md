@@ -35,3 +35,5 @@ Alternatively open an issue or contact me on [telegram](https://t.me/kosinusbch)
 [Bitcoin.com Explorer](https://explorer.bitcoin.com)
 
 [Crescent Cash](https://crescent.cash)
+
+[Pitico](https://pitico.cash/)
