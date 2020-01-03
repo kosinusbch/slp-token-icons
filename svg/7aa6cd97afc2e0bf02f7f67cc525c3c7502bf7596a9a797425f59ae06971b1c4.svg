@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg6783" viewBox="0 0 510.25 430.82" version="1.1">
+  <defs id="defs6785">
+    <filter id="filter4074" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur4076" stdDeviation="5.1052083"/>
+    </filter>
+    <linearGradient id="linearGradient6713" y2="68.076" xlink:href="#linearGradient3865-3" gradientUnits="userSpaceOnUse" x2="170" gradientTransform="matrix(1 0 0 2.9339 2.755e-7 627.09)" y1="119.51" x1="170"/>
+    <linearGradient id="linearGradient3865-3">
+      <stop id="stop3867-6" stop-color="#a80" offset="0"/>
+      <stop id="stop3869-4" stop-color="#a80" stop-opacity="0" offset="1"/>
+    </linearGradient>
+    <radialGradient id="radialGradient6715" xlink:href="#linearGradient3865-3" gradientUnits="userSpaceOnUse" cy="364.5" cx="495.57" gradientTransform="matrix(.15612 .51126 -1.6354 .49940 661.18 582.62)" r="138.1"/>
+    <linearGradient id="linearGradient7327" y2="163.43" gradientUnits="userSpaceOnUse" x2="173.75" gradientTransform="translate(2.755e-7 615.18)" y1="344.25" x1="177.79">
+      <stop id="stop3985-8" stop-color="#fff" stop-opacity="0" offset="0"/>
+      <stop id="stop3987-9" stop-color="#fff" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="layer1" transform="translate(-25.049 -42.498)">
+    <g id="g6706" transform="matrix(1.6556 0 0 1.6556 -12.133 -1276.2)">
+      <rect id="rect4029" opacity=".47345" transform="matrix(.99668 0 0 .98812 -4.938 9.5985)" ry="71.252" filter="url(#filter4074)" width="280" y="820.01" x="46.234" height="230.52"/>
+      <rect id="rect4045" ry="71.252" height="230.52" width="280" y="805.87" x="37.143" fill="#ff0"/>
+      <path id="path4047" fill="url(#linearGradient6713)" d="m224.19 811.96c-40.733 0.56115-81.505-0.52114-122.22 0.46875-33.618 3.2718-62.221 34.26-61.235 68.343-0.57665 28.693 0.2497 57.399-0.26679 86.094-0.53121 23.359 10.469 46.553 30.072 59.478 14.884 10.476 33.425 13.648 51.305 12.219 44.933-0.2905 89.906 0.7409 134.81-0.572 33.935-3.9283 62.125-36.443 59.706-70.874 0.34975-31.375 0.495-62.797-0.21824-94.151-3.5373-33.574-20.406-55.849-54.565-54.663-7.744-0.35209-29.642-6.4001-37.392-6.3422z"/>
+      <path id="path4049" fill="url(#radialGradient6715)" d="m224.19 811.96c-40.733 0.56115-81.505-0.52114-122.22 0.46875-33.618 3.2718-62.221 34.26-61.235 68.343-0.57665 28.693 0.2497 57.399-0.26679 86.094-0.53121 23.359 10.469 46.553 30.072 59.478 14.884 10.476 33.425 13.648 51.305 12.219 44.933-0.2905 89.906 0.7409 134.81-0.572 33.935-3.9283 62.125-36.443 59.706-70.874 0.34975-31.375 0.495-62.797-0.21824-94.151-3.5373-33.574-20.406-55.849-54.565-54.663-7.744-0.35209-29.642-6.4001-37.392-6.3422z"/>
+      <path id="path4051" opacity=".78319" d="m242.56 808.71c-48.782 0.92795-97.642-1.1679-146.37 1.1562-32.412 5.5581-57.708 37.46-55.063 70.375-0.56573 3.1418-0.60242 8.7674 3.875 8.6562 57.637 24.471 121.71 27.747 183.59 25.159 28.533-1.7409 57.018-5.9119 84.596-13.284 0.82066-23.039 0.99928-49.224-15.062-67.219-13.237-16.233-34.529-25.592-55.562-24.844z" fill="url(#linearGradient7327)"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Gold Button 007</dc:title>
+        <dc:date>2010-10-10T23:55:41</dc:date>
+        <dc:description>Golden Buttons and Banners.</dc:description>
+        <dc:source>http://openclipart.org/detail/89431/gold-button-007-by-inky2010</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>inky2010</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>3D</rdf:li>
+            <rdf:li>banner</rdf:li>
+            <rdf:li>bend</rdf:li>
+            <rdf:li>button</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>gold</rdf:li>
+            <rdf:li>golden</rdf:li>
+            <rdf:li>header</rdf:li>
+            <rdf:li>heading</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>inkscape</rdf:li>
+            <rdf:li>inky2010</rdf:li>
+            <rdf:li>internet</rdf:li>
+            <rdf:li>shadow</rdf:li>
+            <rdf:li>vector</rdf:li>
+            <rdf:li>web</rdf:li>
+            <rdf:li>web page</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
