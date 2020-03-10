@@ -24,12 +24,10 @@ The format is tokens.bch.sx/`{size}`/`{txid}`.`{format}`
 
 ## Adding your icon
 
-Create a version of your icon in 32x32 / 64x64 / 128x128 pixels, add to their respective folders and create a pull request. If have the file in svg format, call it whatever and slap it into the SVG directory. Add the original un-resized file to original if you have one.
+Create a version of your icon in 32x32, 64x64, 128x128 and "original" (more than or equal to 128px) and add them to their respective folders in a pull request. If you have a SVG file, feel free to add that to.
 
-Alternatively open an issue with links to an icon in at least 128x128 and I'll resize them for you.
+Alternatively open an issue or contact me on [telegram](https://t.me/kosinusbch) with links to an icon in at least 128x128 and I'll resize them for you.
 
 ## Services using slp-token-icons
 
-[Simpleledger.info](https://simpleledger.info)
-
-[TokenFaucet.org](http://tokenfaucet.forumotion.com/t4-new-tokens-added-may-27-2019)
+[Simpleledger.info](https://simpleledger.info), [Bitcoin.com](https://markets.bitcoin.com/featured-tokens), [Crescent.Cash](https://crescent.cash), [Mint.Bitcoin.com](https://mint.bitcoin.com), [BitcoinVerde.org](https://bitcoinverde.org)
