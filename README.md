@@ -14,13 +14,13 @@ The format is tokens.bch.sx/`{size}`/`{txid}`.`{format}`
 
 ## Examples
 
-`https://tokens.bch.sx/128/4ac91a7245936cda41cfa616c342cbcd111a72a60bf37fdf8e556926cbaa7b28.png`
+`https://tokens.bch.sx/128/f0b9b65e76d2557febe1d8552afc82774f9a111c3002ead0c4c0bfadc0367ba3.png`
 
-`https://tokens.bch.sx/64/4ac91a7245936cda41cfa616c342cbcd111a72a60bf37fdf8e556926cbaa7b28.png`
+`https://tokens.bch.sx/64/f0b9b65e76d2557febe1d8552afc82774f9a111c3002ead0c4c0bfadc0367ba3.png`
 
-`https://tokens.bch.sx/32/4ac91a7245936cda41cfa616c342cbcd111a72a60bf37fdf8e556926cbaa7b28.png`
+`https://tokens.bch.sx/32/f0b9b65e76d2557febe1d8552afc82774f9a111c3002ead0c4c0bfadc0367ba3.png`
 
-`https://tokens.bch.sx/original/4ac91a7245936cda41cfa616c342cbcd111a72a60bf37fdf8e556926cbaa7b28.png`
+`https://tokens.bch.sx/original/f0b9b65e76d2557febe1d8552afc82774f9a111c3002ead0c4c0bfadc0367ba3.png`
 
 ## Adding your icon
 
