@@ -1,0 +1,22 @@
+https://dl.google.com/android/repository/google_m2repository_gms_v11_3_rc05_wear_2_0_5.zip
+
+https://dl.google.com/android/repository/build-tools_r29.0.1-windows.zip
+
+  https://dl.google.com/android/repository/emulator-windows-5598178.zip
+
+https://dl.google.com/android/repository/sdk-tools-windows-4333796.zip
+
+https://dl.google.com/android/repository/platform-tools_r29.0.2-windows.zip
+
+https://dl.google.com/android/repository/3534162-studio.sdk-patcher.zip
+
+Hi, we are evaluating the feasibility of a project that includes a water park, the dimension we thought of is more or less the one of this park.
+1. How much does this park cost?
+2. How much does sending by sea cost?
+3. Is it possible to change some elements?
+4. What is the maximum size of a deflated item and the weight?
+5. What is the average time to inflate an item and deflate it?
+6. A repair kit is provided, what does it include and how much does it cost?
+7. According to your experience, how much is the annual maintenance cost estimated?
+8. One factor that worries us is the heating of the surface of the elements, spending a lot of time under the intense sun of the Caribbean.
+As specified is a feasibility study so we need indicative numbers to make a first rough estimate, not the exact price
