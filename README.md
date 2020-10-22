@@ -30,4 +30,4 @@ Alternatively open an issue or contact me on [telegram](https://t.me/kosinusbch)
 
 ## Services using slp-token-icons
 
-[Simpleledger.info](https://simpleledger.info), [Bitcoin.com](https://markets.bitcoin.com/featured-tokens), [Crescent.Cash](https://crescent.cash), [Mint.Bitcoin.com](https://mint.bitcoin.com), [BitcoinVerde.org](https://bitcoinverde.org)
+[Simpleledger.info](https://simpleledger.info), [Bitcoin.com](https://markets.bitcoin.com/featured-tokens), [Crescent.Cash](https://crescent.cash), [Mint.Bitcoin.com](https://mint.bitcoin.com), [BitcoinVerde.org](https://bitcoinverde.org).
