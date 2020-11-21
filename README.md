@@ -2,15 +2,15 @@
 
 A hosted repository of all known SLP token icons. All tokens added here will be served via an extremely censorship resistant endpoint located at tokens.bch.sx/`[size]`/`[txid]`.png
 
-## Usage
+## Endpoint Usage
 
-The format is tokens.bch.sx/`{size}`/`{txid}`.`{format}`
+The format is https://tokens.bch.sx/ `{size}` / `{txid}` . `{format}`
 
-`{size}` can be any number from 1-2399 (or "original")
+`{size}` can be any number from 1-1700 (or "original")
 
 `{txid}` is the transaction id of the token genesis transaction
 
-`{format}` can be png, jpg, tiff or webp
+`{format}` can be png, jpg, tiff or webp (endpoint will properly convert from png)
 
 ## Examples
 
@@ -25,8 +25,6 @@ The format is tokens.bch.sx/`{size}`/`{txid}`.`{format}`
 ## Adding your icon
 
 Create a version of your icon in 32x32, 64x64, 128x128 and "original" (more than or equal to 128px) and add them to their respective folders in a pull request. If you have a SVG file, feel free to add that to.
-
-Alternatively open an issue or contact me on [telegram](https://t.me/kosinusbch) with links to an icon in at least 128x128 and I'll resize them for you.
 
 ## Services using slp-token-icons
 
