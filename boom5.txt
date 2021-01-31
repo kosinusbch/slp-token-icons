@@ -1,0 +1,8 @@
+Token ID: d0a0d5d0d958fcebf72fdacee0f4d89d98b614de3e1bd27c5a8646a4b7b2ce27
+Link: https://explorer.bitcoin.com/bch/token/d0a0d5d0d958fcebf72fdacee0f4d89d98b614de3e1bd27c5a8646a4b7b2ce27
+
+Icon locations:
+
+http://tokens.bitcoin.com/32/d0a0d5d0d958fcebf72fdacee0f4d89d98b614de3e1bd27c5a8646a4b7b2ce27.png
+http://tokens.bitcoin.com/64/d0a0d5d0d958fcebf72fdacee0f4d89d98b614de3e1bd27c5a8646a4b7b2ce27.png
+http://tokens.bitcoin.com/128/d0a0d5d0d958fcebf72fdacee0f4d89d98b614de3e1bd27c5a8646a4b7b2ce27.png
