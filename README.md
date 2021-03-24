@@ -4,7 +4,7 @@ A hosted repository of all known SLP token icons. All tokens added here will be 
 
 ## Want to add a NFT token icon?
 
-NFT token icon's will not be accepted (there are too many). Contact the creators of juungle.net to get your NFT icon added to all NFT-supported services.
+NFT token icons will not be accepted (there are too many). Contact the creators of https://juungle.net to get your NFT icon added to all NFT-supported services.
 
 ## Adding your icon
 
