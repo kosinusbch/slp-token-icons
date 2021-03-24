@@ -8,7 +8,7 @@ Create a version of your icon in 32x32, 64x64, 128x128 and "original" (more than
 
 ## Have a NFT icon?
 
-Since individual NFT Groups's have too many icons, they will have to run their own repositories. Contact the creators of https://juungle.net to get your NFT icon added to all NFT-supported services.
+Since a lot of NFT Groups have too many children, they will have to run their own icon repositories. Contact the creators of https://juungle.net to get your NFT icon added to all NFT-supported services.
 
 ## Endpoint Usage
 
