@@ -2,6 +2,10 @@
 
 A hosted repository of all known SLP token icons. All tokens added here will be served via a censorship resistant endpoint located at tokens.bch.sx.
 
+## Want to add a NFT token icon?
+
+NFT token icon's will not be accepted (there are too many). Contact the creators of juungle.net to get your NFT icon added to all NFT-supported services.
+
 ## Adding your icon
 
 Create a version of your icon in 32x32, 64x64, 128x128 and "original" (more than or equal to 128px) and add them to their respective folders in a pull request. If you have a SVG file, feel free to add that to (though SVG's will not be served from the endpoint).
