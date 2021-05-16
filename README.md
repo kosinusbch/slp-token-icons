@@ -6,6 +6,10 @@ A hosted repository of all known SLP token icons. All tokens added here will be 
 
 Create a version of your icon in 32x32, 64x64, 128x128 and "original" (more than or equal to 128px) and add them to their respective folders in a pull request. If you have a SVG file, feel free to add that to (though SVG's will not be served from the endpoint).
 
+## Have a NFT icon?
+
+Since a lot of NFT Groups have too many children, they will have to run their own icon repositories. Contact the creators of https://juungle.net to get your NFT icon added to all NFT-supported services.
+
 ## Endpoint Usage
 
 The endpoint will automatically resize and losslessly optimize the photos it serves.

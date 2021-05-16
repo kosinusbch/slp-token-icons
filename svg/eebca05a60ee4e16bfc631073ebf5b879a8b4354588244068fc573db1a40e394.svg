@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
+<!-- copyright Roberta Bennett 2021 -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="603.467px"
+   height="603.467px"
+   viewBox="0 0 603.467 603.467"
+   enable-background="new 0 0 603.467 603.467"
+   xml:space="preserve"
+   sodipodi:docname="YES.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata85"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs83" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1867"
+   inkscape:window-height="1867"
+   id="namedview81"
+   showgrid="false"
+   inkscape:zoom="2.1595901"
+   inkscape:cx="324"
+   inkscape:cy="324"
+   inkscape:window-x="53"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+<g stroke-dasharray="550 600" stroke-dashoffset="0" id="YellowGround">
+<path
+   d="m 17.749,400.197 c 7.266,20.206 39.951,33.986 60.251,35.888 55.931,5.24 108.779,-29.375 160.894,-43.967 34.032,-9.529 71.564,-16.229 106.962,-12.825 34.535,3.321 67.108,13.696 99.867,24.487 27.135,8.938 56.306,15.152 84.748,9.581 14.436,-2.828 28.483,-7.857 42.543,-12.137 9.614,-2.927 20.259,-8.247 30.449,-8.17"
+   id="path11"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#fff000" />
+ <animate attributeName="stroke-dashoffset" values="550;0" dur="10.5s" repeatCount="0"/>
+</g>
+
+<g stroke-dasharray="550 600" stroke-dashoffset="0" id="YellowArcs">
+<path
+   d="m 346.319,68.65 c 16.873,-18.133 52.833,-16.836 72.735,-5.983 9.797,5.342 17.685,12.122 26.684,18.542 3.128,2.232 12.005,6.101 10.105,10.655"
+   id="path13"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ffff00" />
+<path
+   d="m 362.392,76.983 c 10.026,-13.224 30.438,-10.221 44.598,-8.184 9.71,1.397 19.148,3.211 26.258,10.549 2.432,2.509 8.206,8.707 5.93,11.325"
+   id="path15"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ffff00" />
+<path
+   d="m 352.272,52.579 c 10.763,-11.439 38.364,-13.041 52.367,-8.241 7.22,2.474 20.73,7.715 26.105,13.108 3.167,3.177 3.84,7.886 6.646,11.205"
+   id="path17"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ffff00" />
+ <animate attributeName="stroke-dashoffset" values="550;0" dur="2s" repeatCount="0"/>
+</g>
+
+<g stroke-dasharray="1000 1500" stroke-dashoffset="0">
+<path id="fore" fill="none" stroke="#000000"
+   d="M134.415,360.316c9.163-7.967,25.839-10.777,37.368-13.283  c16.046-3.488,30.918-1.925,46.67,2.248c17.605,4.664,34.583,9.597,52.676,12.193c25.051,3.595,49.789,10.037,75.206,10.193  c22.174,0.137,45.188,1.927,67.249,0.011c22.584-1.962,45.141-6.833,67.331-11.376c15.531-3.18,32.251-7.524,48.206-7.152  c4.461,0.104,8.145,0.137,11.764,2.957c2.509,1.956,1.944,4.807,5.435,5.399" />
+
+<set attributeName="stroke-dashoffset" to="1000" dur="indefinite"/>
+<animate id="girls" attributeName="stroke-dashoffset" values="1000;0" dur="4s" begin="2s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="6s" dur="indefinite"/>
+</g>
+
+<path stroke-dasharray="1000 1500" stroke-dashoffset="0"
+   id="mid"
+   fill="none"
+   stroke="#000000"
+   d="M217.153,292.459c22.462-1.186,44.415-4.748,67.104-4.758  c31.078-0.014,60.165,5.195,87.092,21.409c12.032,7.245,22.759,13.412,36.853,15.544c15.207,2.3,30.996,2.953,46.31,1.758  c16.876-1.316,33.682-3.031,50.563-4.202c6.658-0.462,14.713-1.847,21.008,0.606" >
+<set attributeName="stroke-dashoffset" to="1000" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="1000;0" dur="3s" begin="3s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="6s" dur="indefinite"/>
+</path>
+
+<path stroke-dasharray="1000 1500" stroke-dashoffset="0"
+   id="mountain"
+   fill="none"
+   stroke="#000000"
+   d="M173.701,259.722c0.964-5.224,7.251-7.679,11.371-10.115  c12.523-7.406,24.148-14.275,38.994-15.402c30.788-2.337,54.756,16.467,81.944,27.925c35.485,14.954,69.869,14.347,107.565,9.493  c25.095-3.231,50.021-6.791,75.01-10.74c10.099-1.597,23.731-6.983,33.843-5.103c-0.505,0.853-1.271,1.373-2.298,1.562" >
+<set attributeName="stroke-dashoffset" to="1000" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="1000;0" dur="3s" begin="3.5s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="6.5s" dur="indefinite"/>
+</path>
+
+
+
+
+
+
+<path stroke-dasharray="1000 1500" stroke-dashoffset="0"
+   d="m 402.272,91.269 c -5.795,4.239 -7.702,12.532 -13.627,17.02 6.018,-3.837 12.119,-6.185 18.804,-8.687 -5.785,-1.756 -12.287,-0.588 -18.075,-2.438 5.181,3.632 10.872,8.888 13.389,14.744 -1.896,-6.674 0.983,-16.996 -5.253,-22.425"
+   id="path36RedStarStar"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ff0000" >
+<set attributeName="stroke-dashoffset" to="1000" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="1000;0" dur="6s" begin="5.5s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="10.5s" dur="indefinite"/>
+</path>
+
+
+<path stroke-dasharray="300 700" stroke-dashoffset="0"
+   d="m 188.105,343.058 c -1.559,-8.631 -0.416,-18.22 -1.074,-27.232 -1.705,4.495 -3.666,10.306 -4.55,15.189 3.118,-0.375 5.69,-0.736 8.84,0.017 -1.886,-4.309 -1.923,-12.233 -5.215,-15.307"
+   id="path48Tree1"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#39b54a">
+<set attributeName="stroke-dashoffset" to="300" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="300;0" dur="3s" begin="3.5s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="6.5s" dur="indefinite"/>
+</path>
+
+<path stroke-dasharray="300 700" stroke-dashoffset="0"
+   d="m 209.772,345.392 c -2.427,-4.105 -0.457,-12.87 -0.659,-17.899 -0.214,-5.324 -0.317,-10.896 -1.34,-16 -0.331,6.751 -1.353,13.568 -1.951,20.198 1.932,-1.1 4.035,-0.905 6.25,-0.999 -1.122,-6.032 -4.162,-11.814 -4.651,-17.866 0.298,0.418 0.223,0.804 0.351,1.232"
+   id="path50Tree2"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#39b54a" >
+<set attributeName="stroke-dashoffset" to="300" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="300;0" dur="3s" begin="4s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="7s" dur="indefinite"/>
+</path>
+
+<path stroke-dasharray="300 700" stroke-dashoffset="0"
+   d="m 219.438,349.058 c -1.709,-1.937 0.557,-7.973 0.667,-10.667 0.156,-3.84 -0.813,-7.524 -0.65,-11.215 -1.518,4.002 -1.113,9.358 -1.958,13.508 1.54,-0.438 3.497,-0.271 5.241,-0.317 -0.283,-2.79 -1.803,-8.683 -3.3,-10.975"
+   id="path52Tree3"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#39b54a" >
+<set attributeName="stroke-dashoffset" to="300" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="300;0" dur="3s" begin="4.5s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="7.5s" dur="indefinite"/>
+</path>
+<path stroke-dasharray="300 700" stroke-dashoffset="0"
+   d="m 236.772,353.058 c -0.681,-7.952 0.717,-16.09 0.325,-24.085 -0.255,-5.208 -1.136,-11.344 -0.659,-16.48 0.108,7.432 -3.006,15.662 -1.283,22.856 1.9,-0.34 3.866,-1.082 5.898,-1.008 -0.25,-3.678 -1.324,-7.467 -2.688,-10.949 -0.555,-1.416 -1.292,-2.887 -1.602,-4.327 -0.161,-0.75 -0.831,-4.294 -0.326,-3.007"
+   id="path54Tree5"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#39b54a" >
+<set attributeName="stroke-dashoffset" to="300" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="300;0" dur="3s" begin="5s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="8s" dur="indefinite"/>
+</path>
+<path stroke-dasharray="300 700" stroke-dashoffset="0"
+   d="m 248.438,356.392 c 0.696,-6.269 2.005,-15.688 0.074,-21.641 -0.25,2.429 -1.573,4.682 -1.269,7.124 1.109,-0.141 2.251,-0.34 3.36,-0.584 -1.111,-2.99 -3.628,-5.386 -4.637,-8.443 -1.33,-4.028 -0.708,-8.938 -1.27,-13.141 -0.455,-3.404 -0.182,-6.929 -0.666,-10.315 -0.383,-2.688 -2.247,-5.331 -1.926,-8.232 -0.182,4.512 -0.533,9.002 -0.617,13.531 1.627,-0.912 3.408,-1.187 5.233,-1.343 0.699,-2.979 -2.648,-7.046 -4.95,-8.623"
+   id="path56Tree6"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#39b54a" >
+<set attributeName="stroke-dashoffset" to="300" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="300;0" dur="3s" begin="5.4s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="8.4s" dur="indefinite"/>
+</path>
+<path stroke-dasharray="300 700" stroke-dashoffset="0"
+   d="m 224.772,350.725 c 0,-14.409 -0.562,-28.616 -0.316,-42.899 -0.931,3.723 -2.35,8.338 -2.3,12.182 1.883,0.237 3.677,-0.42 5.583,-0.35 -0.938,-2.438 -3.333,-7.815 -3.633,-9.6"
+   id="path58Tree4"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#39b54a" >
+<set attributeName="stroke-dashoffset" to="300" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="300;0" dur="3s" begin="5.9s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="8.9s" dur="indefinite"/>
+</path>
+<path stroke-dasharray="300 700" stroke-dashoffset="0"
+   d="m 268.105,359.058 c 1.306,-4.069 -0.103,-10.675 -0.334,-15.083 -0.296,-5.631 -0.308,-11.283 -0.74,-16.898 -1.497,3.394 -0.868,7.849 -1.242,11.667 -0.288,2.937 -1.178,5.854 -0.367,8.855 1.144,-0.727 2.592,-1.304 3.974,-1.258 -0.625,-3.621 -5.375,-17.529 -3.624,-19.616"
+   id="path60DarkTree"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#000000" >
+<set attributeName="stroke-dashoffset" to="300" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="300;0" dur="4s" begin="5.5s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="9.5s" dur="indefinite"/>
+</path>
+
+
+
+
+<path
+   id="yes"
+   fill="none"
+   stroke="#000000"
+   stroke-dasharray="3000 3500" stroke-dashoffset="0"
+   d="M55.844,27.579c10.113-1.354,10.551,10.233,6.458,16.795  c-4.802,7.697-24.048,13.343-21.837-0.582C42.956,28.107,66.932,18.8,80.425,19.207c27.591,0.831,16.393,28.994,12.469,46.003  c-3.423,14.842-7.839,29.428-10.757,44.39c-3.027,15.528-3.627,31.414-4.879,47.145c-1.31,16.442-9.914,67.984,19.616,63.641  c14.417-2.12,27.245-15.003,37.526-24.314c15.658-14.181,29.68-30.157,41.327-47.83c12.682-19.245,24.169-40.669,33.9-61.55  c4.655-9.99,8.608-20.475,12.862-30.648c1.91-4.567,5.703-11.101,5.164-16.001c-2.656,1.413-3.423,6.616-4.508,9.467  c-2.839,7.46-5.984,14.8-8.971,22.21c-9.079,22.519-17.45,45.283-26.741,67.723c-10.095,24.382-22.893,47.596-35.325,70.845  c-13.506,25.257-25.302,51.119-41.886,74.636c-9.117,12.93-24.362,33.141-42.964,29.436c-21.571-4.296-11.208-32.736-4.421-44.871  c22.231-39.753,59.457-56.015,102.664-62.162c22.794-3.243,44.772-7.881,66.359-16.164c26.815-10.29,57.828-21.275,77.443-43.394  c5.876-6.626,21.602-27.829,6.56-33.52c-15.509-5.868-31.634,16.03-38.657,26.246c-9.063,13.183-12.417,31.415-5.816,46.503  c8.048,18.399,23.028,20.312,41.088,17.421c21.114-3.379,40.244-14.529,56.446-28.109c10.572-8.861,20.877-18.101,30.977-27.49  c8.515-7.917,18.708-18.922,29.357-23.983c8.168-3.882,7.172,0.873,5.957,8.114c-2.56,15.256-10.812,29.482-18.237,42.85  c-8.129,14.634-20.754,28.271-36.704,34.521c-19.616,7.687-35.395-2.315-33.374-24.225c0.796-8.625,7.693-25.106,19.022-22.13  c5.483,1.441,11.327,8.434,15.462,11.95c6.416,5.457,12.736,10.312,20.34,14.054c46.569,22.924,98.338,8.578,139.833-17.746" >
+
+<set attributeName="stroke-dashoffset" to="3500" dur="indefinite"/>
+<animate id="girls" attributeName="stroke-dashoffset" values="3500;0" dur="2s" begin="5s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="7s" dur="indefinite"/>
+</path>
+
+<g stroke-dasharray="500 500" stroke-dashoffset="0"
+   id="bang">
+<path
+   fill="none"
+   stroke="#000000"
+   d="M547.51,43.65c-1.145,1.865-2.399,8.511-3.37,11.91  c-3.762,13.177-11.176,24.799-14.978,38.053c-4.221,14.72-6.081,29.735-7.245,44.938c-0.664,8.675-3.136,17.902-2.931,26.505  c0.642,0.061,1.221-0.13,1.738-0.572"
+   id="path3" />
+<path
+   fill="none"
+   stroke="#000000"
+   d="M530.844,206.15c-6.409,0.099-17.596-8.594-18.984,3.554  c-1.592,13.921,15.518-0.4,12.136-10.128c-5.023,0.891-12.602,12.787-10.383,17.857c3.825,8.741,15.17-3.371,17.826-7.712"
+   id="path5" />
+<set attributeName="stroke-dashoffset" to="500" dur="indefinite"/>
+<animate id="girls" attributeName="stroke-dashoffset" values="500;0" dur="0.3s" begin="6.8s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="7.1s" dur="indefinite"/>
+</g>
+
+
+<g stroke-dasharray="500 500" stroke-dashoffset="0" >
+
+<path
+   d="m 383.819,81.745 c 11.346,-10.248 30.097,-6.524 37.5,5.953"
+   id="path20RedStarHat"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ed1c24" />
+<path
+   d="M 345.129,52.579 C 338.883,43.072 331.766,34.326 325.188,25.119 323.306,22.487 308.101,2.353 306.439,10.912"
+   id="path22RedRay2"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ed1c24" />
+<path
+   d="m 364.772,40.674 c -1.785,-6.512 0.373,-14.22 0.726,-20.844 0.22,-4.144 2.828,-14.388 0.465,-17.251"
+   id="path24RedRay3"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ed1c24" />
+<path
+   d="m 396.915,38.293 c 0.894,-7.894 1.196,-15.874 2.383,-23.794 0.509,-3.398 4.02,-13.256 3.569,-14.301"
+   id="path26RedRay4"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ed1c24" />
+<path
+   d="M 430.844,44.245 C 443.608,32.148 446.406,14.135 464.773,9.126"
+   id="path28RedRay5"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ed1c24" />
+<path
+   d="m 453.463,65.079 c 9.759,-2.205 20.816,-7.053 29.442,-12.037 5.37,-3.103 9.772,-7.553 15.332,-10.388 6.812,-3.473 15.874,-4.956 21.892,-9.718"
+   id="path30RedRay6"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ed1c24" />
+<path
+   d="m 474.892,96.626 c 9.835,-4.337 20.523,-5.712 30.383,-9.642 4.877,-1.944 9.286,-4.628 14.246,-6.427 4.824,-1.749 10.894,-2.636 14.895,-5.954"
+   id="path32RedRay7"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ed1c24" />
+<path
+   d="M 323.701,63.293 C 315.152,54.741 306.142,45.99 296.946,38.13 290.744,32.829 283.877,27.834 276.678,23.979 272.785,21.894 259.147,15.94 258.225,16.27"
+   id="path34RedRay1"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ff0000" />
+
+<path
+   d="m 471.915,4.959 c -0.702,2.229 -2.513,4.297 -3.506,6.459 2.902,0.135 5.892,0.392 8.648,-0.509 -3.085,-1.582 -4.708,-6.65 -7.927,-6.321 1.806,3.602 4.063,6.655 5.789,10.308 -0.079,-3.735 0.666,-8.395 -1.814,-11.127"
+   id="path38RedStar5"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ff0000" />
+<path
+   d="m 527.272,30.555 c -1.143,3.018 -2.279,6.162 -4.134,8.822 3.185,0.239 5.823,-2.344 8.234,-4.223 -2.206,-2.58 -3.736,-5.691 -6.866,-7.527 4.641,5.016 2.608,6.651 2.752,12.313 0.429,-3.198 3.717,-11.29 -0.582,-11.17"
+   id="path40RedStar6"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ff0000" />
+<path
+   d="m 543.938,72.816 c 0.947,3.362 -3.096,7.903 -5.71,10.708 0.15,0.164 0.301,0.329 0.448,0.496 4.763,-0.79 7.686,-3.953 11.655,-6.321 -4.065,0.419 -8.539,-1.5 -11.672,-3.51 0.938,4.35 6.209,9.744 10.558,10.497 -0.204,-3.748 -2.858,-14.728 -7.66,-12.464"
+   id="path42RedStar7"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ff0000" />
+<path
+   d="m 302.272,2.579 c -2.73,2.083 -4.697,8.273 -5.291,11.82 3.268,-0.437 6.424,-3.85 8.217,-6.475 -3.448,-1.473 -8.532,-0.434 -12.299,-1.117 2.927,3.467 7.438,5.97 10.92,8.848 -0.845,-3.888 -2.455,-11.484 -7.5,-11.291"
+   id="path44RedStar2"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ff0000" />
+<path
+   d="m 249.891,13.293 c -0.878,3.226 -2.126,6.571 -2.423,9.908 2.529,-2.142 3.575,-5.67 5.772,-8.032 -2.133,1.841 -5.14,1.949 -7.9,1.669 2.427,2.779 5.497,5.519 9.117,6.51 -2.254,-2.714 -3.783,-8.714 -6.352,-8.865"
+   id="path46GreenStar1"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#39b54a" />
+
+<set attributeName="stroke-dashoffset" to="500" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="500;0" dur="2.5s" begin="5.8s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="8.3s" dur="indefinite"/>
+</g>
+
+
+<g stroke-dasharray="500 500" stroke-dashoffset="0" id="g78LLCstuff">
+	<path
+   d="m 33.438,408.392 c -4.899,0.92 -2.388,7.286 0.942,5.609 0.395,-0.979 0.894,-3.501 0.317,-4.535 -0.651,-1.169 -2.384,-2.258 -2.592,-0.741"
+   id="path62C1"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#000000" />
+	<path
+   d="m 51.105,421.392 c -2.49,-1.264 -5.863,2.571 -3.09,4.423 2.774,1.853 4.562,-3.037 1.09,-4.09"
+   id="path64C2"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#000000" />
+	<path
+   d="m 54.105,400.058 c 0.468,-2.715 4.397,-9.178 7.689,-8.736 4.27,0.573 6.195,10.86 4.262,14.019 -2.893,-1.151 -2.413,-8.569 -2.618,-11.282"
+   id="path66RedHat"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ed1c24" />
+	<path
+   d="m 49.105,407.058 c -0.511,0.488 -0.908,0.925 -1.565,1.221 2.608,-2.997 3.403,-9.119 6.84,-10.919 0.602,3.537 0.76,7.137 1.061,10.709 0.34,4.036 -0.392,11.461 2.273,14.755 6.888,0.119 7.739,-9.796 12.171,-13.165 2.281,1.194 2.644,4.737 3.309,7.06 1.415,-4.301 1.429,-10.07 1.2,-14.547 -2.113,5.103 -1.781,11.11 -4.932,15.807 0.862,-2.85 2.208,-5.498 3.237,-8.286 1.113,-3.012 1.547,-7.74 3.753,-10.104 0.658,0.503 1.735,0.671 2.32,1.138"
+   id="path68Zigs"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#000000" />
+	<path
+   d="m 79.771,413.058 c -0.31,-2.641 17.883,1.485 20,-0.333"
+   id="path70Ray1"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#000000" />
+	<path
+   d="m 82.438,418.058 c 1.987,4.003 12.503,4.565 16.667,5.667"
+   id="path72Ray2"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#000000" />
+	<path
+   d="m 73.438,422.725 c 4.195,2.187 13.458,8.527 18.333,6.333"
+   id="path74Ray3"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#000000" />
+	<path
+   d="m 35.105,403.058 c 0.14,-6.751 -5.526,-7.443 -10.391,-8.908 -5.904,-1.779 -10.461,-4.8 -12.351,-10.685 -1.783,-5.554 -2.213,-8.619 -8.943,-9.758 -1.095,-0.185 -2.728,1.363 -2.914,-0.649 -0.132,-1.42 1.708,-1.812 2.599,-1.999 2.187,-0.459 5.126,1.024 6.748,2.324 3.459,2.772 4.392,6.83 5.918,10.658 2.247,5.631 4.214,5.664 9.666,7.091 3.699,0.968 8.976,2.186 11.251,5.585 1.194,1.784 1.104,3.847 2.083,5.675 1.919,3.582 7.188,5.183 10.667,7.333"
+   id="path76MagentaTail"
+   inkscape:connector-curvature="0"
+   style="fill:none;stroke:#ff00ff" />
+<set attributeName="stroke-dashoffset" to="500" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="500;0" dur="6.5s" begin="0.1s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="6.6s" dur="indefinite"/>
+</g>
+</svg>
