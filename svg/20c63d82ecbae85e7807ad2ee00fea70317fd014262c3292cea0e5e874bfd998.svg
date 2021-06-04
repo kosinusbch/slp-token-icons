@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- Copyright 2021 Roberta Bennett  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="622.393px" height="622.393px" viewBox="0 0 622.393 622.393" enable-background="new 0 0 622.393 622.393" xml:space="preserve">
+<path fill="none" stroke="#000000" stroke-dasharray="3000 3500" stroke-dashoffset="0" d="M61.774,45.667c-10.352-3.266-24.249-11.851-23.119-24.45  c2.055-22.918,31.783-7.753,35.468,6.549c3.363,13.052-3.361,22.421-14.642,28.511c-8.271,4.465-18.086,4.897-24.518-2.888  c-9.818-11.883-4.082-39.278,9.838-46.13c10.888-5.359,33.173-8.663,44.481-3.3c11.713,5.555,13.991,35.208,15.378,46.308  c3.197,25.599-11.348,48.105-36.342,55.543c-18.252,5.431-50.622,8.31-62.522-10.607c-11.63-18.487-2.058-48.405,9.074-65.172  C28.536,9.443,51.104,2.412,74.831,0.864c50.556-3.298,105.247,15.51,118.666,69.21c6.417,25.679,1.26,52.924-3.168,78.51  c-4.924,28.452-11.155,56.197-19.912,83.728c-7.645,24.038-20.426,45.842-30.517,68.831c-9.301,21.189-16.977,43.092-26.474,64.162  c-10.562,23.433-28.307,43.979-36.206,68.334c-1.101-18.689,9.2-40.687,14.449-58.165c10.454-34.812,28.243-67.056,41.863-100.707  c25.961-64.141,36.995-132.174,78.51-189.396c18.212-25.104,40.267-46.478,67.019-62.021c11.944-6.939,29.67-12.804,40.913-1.503  c13.273,13.342,14.647,32.955,13.854,50.607c-1.095,24.35-8.445,49.542-12.693,73.528c-4.129,23.315-6.745,47.584-13.349,70.386  c-7.024,24.253-17.641,47.176-24.463,71.441c-4.605,16.382-5.548,33.844-6.069,50.728c-0.464,15.04-0.439,32.536,4.258,46.949  c8.788,26.968,39.053,15.37,57.166,5.891c30.336-15.874,47.506-44.882,67.876-71.174c22.795-29.422,54.128-53.438,87.895-68.874  c14.814-6.772,29.818-12.179,46.091-14.02c4.662-0.527,10.193-1.432,14.479,0.516c-4.431-2.808-14.554-0.258-19.544,0.255  c-16.511,1.697-32.069,4.883-47.492,11.129c-31.167,12.624-59.914,37.22-71.519,69.648c-9.781,27.334-2.397,51.539,24.467,63.131  c21.982,9.484,50.43,2.965,70.729-8.169c43.242-23.717,113.19-85.758,61.871-135.319c-6.812-6.579-15.965-13.628-25.89-14.15  c-6.638-0.35-15.388,1.514-13.894,10.056c1.543,8.82,14.188,10.42,21.262,10.141c19.385-0.766,39.938-13.018,51.52-28.227  c5.507-7.232,7.69-14.812,10.043-23.45c1.564-5.747,5.167-12.017,5.324-18.037">
+<set attributeName="stroke-dashoffset" to="3500" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="3500;0" dur="7s" begin="0.2s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="7.2s" dur="indefinite"/>	
+</path>
+
+<path fill="none" stroke="#000000" d="M52.25,81.977c0.933-1.351,2.491-2.47,4.167-2.976"/>
+
+<g fill="none" stroke="#FFFFFF">
+<path d="M69.512,78.406c1.509-2.104,3.449-4.368,5.357-5.953"/>
+<path d="M37.965,78.406c0.968-0.634,1.994-1.25,2.976-1.786"/>
+<set attributeName="stroke" to="#ffffff" dur="indefinite"/>
+<set attributeName="stroke" to="#000000" begin="0.5s" dur="indefinite"/>
+</g>
+
+<path fill="none" stroke="#ffffff" d="M40.346,99.834c9.624-6.845,22.099-3.881,32.143-4.762">
+<set attributeName="stroke" to="#ffffff" dur="indefinite"/>
+<set attributeName="stroke" to="#000000" begin="1.3s" dur="indefinite"/>
+</path>
+
+
+<path fill="none" stroke="#F00000" stroke-dasharray="500 500" stroke-dashoffset="0" d="M474.87,364.12c-2.319-5.25,9.012-2.356,11.904-2.348c5.739,0.017,9.975-1.968,15.375,0.663  c0.729,3.407,4.934,4.675,7.84,3.47">
+<set attributeName="stroke-dashoffset" to="500" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="500;0" dur="2.5s" begin="7.8s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="10.3s" dur="indefinite"/>	
+</path>
+	
+<g stroke="#F00000" fill="none" stroke-dasharray="500 500" stroke-dashoffset="0">	
+<path stroke="#00F000" d="M476.06,301.62c-2.989-3.763-10.47-9.47-15.016-11.175c-9.967-3.738-10.674,3.182-5.849,9.375  c4.493,5.766,9.968,9.684,17.439,11.786c3.579,1.008,20.114,1.268,18.306,6.085"/>
+<path stroke="#00F000" d="M482.608,305.786c2.591,0.301,4.957,3.728,5.356,4.167"/>
+<path stroke="#F0F000" d="M515.346,305.786c4.443-6.847,17.452-10.18,24.997-11.277  c4.874-0.708,23.032,1.446,20.465,9.515c-1.3,4.082-13.74,5.808-17.62,6.166c-4.28,0.395-8.62-4.479-2.833-4.735  c-2.128,2.629-12.2,4.049-15.487,3.771c-2.083-0.176-4.023-2.15-5.934-2.293c-2.721-0.203-3.102,3.131-5.374,0.64"/>
+<set attributeName="stroke-dashoffset" to="500" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="500;0" dur="2s" begin="9.3s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="11.3s" dur="indefinite"/>
+</g>	
+	
+	
+<path fill="none" stroke="#FF0000" stroke-dasharray="100 100" stroke-dashoffset="0" d="M465.941,306.382c1.738-1.369,4.246,0.285,3.571,2.381">
+<set attributeName="stroke-dashoffset" to="100" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="100;0" dur="1s" begin="11.3s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="12.3s" dur="indefinite"/>
+</path>
+
+<path fill="none" stroke="#FF0000" stroke-dasharray="100 100" stroke-dashoffset="0" d="M533.203,308.168c2.222-1.389,6.007-2.137,7.144,0.595">
+<set attributeName="stroke-dashoffset" to="100" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="100;0" dur="1s" begin="12.3s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="13.3s" dur="indefinite"/>
+</path>
+
+<path fill="none" stroke="#000000" stroke-dasharray="100 100" stroke-dashoffset="0" d="M486.774,327.215c-0.918,3.319-2.711,6.273-0.479,9.347c1.684-2.799-1.761-6.678,1.074-8.156">
+<set attributeName="stroke-dashoffset" to="100" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="100;0" dur="1s" begin="11.3s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="12.3s" dur="indefinite"/>
+</path>
+	
+<path fill="none" stroke="#000000" stroke-dasharray="50 50" stroke-dashoffset="0" d="M552.846,318.882c-2.194,1.974,0.389,4.562,0.002,6.039c-0.002-1.614-0.044-3.235-0.002-4.849">
+<set attributeName="stroke-dashoffset" to="50" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="50;0" dur="1s" begin="13.3s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="14.3s" dur="indefinite"/>
+</path>
+
+<path fill="none" stroke="#000000" stroke-dasharray="50 50" stroke-dashoffset="0" d="M552.25,336.739c-1.49,5.294,1.835,10.65,0.058,15.962c3.861-1.215-1.147-10.153-1.844-13.581">
+<set attributeName="stroke-dashoffset" to="50" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="50;0" dur="0.7s" begin="14.3s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="15s" dur="indefinite"/>
+</path>
+	
+<path fill="none" stroke="#000000" stroke-dasharray="50 50" stroke-dashoffset="0" d="M553.441,373.644c-1.53,2.698-0.681,6.166-1.192,9.522c-0.436,2.855-2.096,5.419-2.305,8.233  c6.644,3.137,1.335-10.75,0.608-13.471c0.621-0.344,0.74-0.822,1.103-1.309">
+<set attributeName="stroke-dashoffset" to="50" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="50;0" dur="0.7s" begin="15s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="15.7s" dur="indefinite"/>	
+</path>
+	
+<path fill="none" stroke="#000000" stroke-dasharray="50 50" stroke-dashoffset="0" d="M552.846,423.049c-1.429,3.335-2.602,4.851-2.415,8.366c0.201,3.785,1.283,5.698,0.721,9.994  c1.147,0.085,2.299-0.09,3.392-0.605c2.006-5.625-6.048-10.538-2.293-17.16">
+<set attributeName="stroke-dashoffset" to="50" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="50;0" dur="0.7s" begin="15.7s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="16.4s" dur="indefinite"/>
+</path>	
+
+	
+<g stroke-dasharray="600 600" stroke-dashoffset="0">
+<path fill="none" stroke="#000000" d="M445.108,133.763c3.452-5.137,20.783-0.321,27.161-1.162c7.7-1.016,12.08-2.566,19.234-0.477  c8.121,2.372,15.357,0.342,23.722,0.317c6.484-0.019,11.216,1.699,17.504,3.12c5.393,1.219,11.476,0.524,17.127,0.583  c5.985,0.063,12.342,0.5,18.538-0.134c2.079-0.213,12.29-2.028,10.047,0.132"/>
+<path fill="none" stroke="#000000" d="M448.083,111.739c2.143-1.734,6.048-5.444,8.972-5.532c4.446-0.133,1.177,1.821,4.242,3.193  c4.485,2.007,10.137-0.434,14.3-0.638c10.257-0.503,21.725,1.192,32.596,1.19c13.844-0.002,26.959,2.268,40.56,3.539  c4.651,0.435,9.547,0.825,14.229,1.24c4.878,0.433,11.131-1.32,15.459-0.017"/>
+<path fill="none" stroke="#000000" d="M452.25,89.12c3.907,0.214,8.146-0.626,11.803-1.727c1.283,3.875,8.078,3.173,11.397,2.9  c5.815-0.477,10.654,0.392,16.544,0.034c4.786-0.291,10.042-2.201,14.586-2.263c4.052-0.056,8.759,1.491,12.918,2.116  c6.134,0.921,11.357-0.033,17.289-0.333c5.055-0.255,9.957,1.845,14.865,2.813c4.715,0.93,10.229,3.348,15.074,1.962  c3.407-0.974,8.212-7.115,11.119-1.932"/>
+<path fill="none" stroke="#000000" d="M452.846,50.43c3.119-6.18,8.107-3.463,12.488-2.996c5.629,0.6,13.054,0.605,18.925,0.659  c4.445,0.041,8.678-1.924,13.229-1.695c5.445,0.273,11.465,1.416,17.083,1.649c12.59,0.522,24.646-0.563,37.199-0.593  c5.081-0.012,9.14,1.787,13.712,2.262c5.533,0.575,10.742-0.854,16.529,0.119"/>
+<path fill="none" stroke="#500000" d="M576.06,31.382c-10.899-1.148-21.618,0.724-32.605-1.177  c-11.922-2.062-22.09-0.619-33.927,0.568c-10.649,1.067-19.629-0.045-29.883-1.175c-9.381-1.033-18.077,1.896-26.737,2.26  c0.479-1.096,1.259-1.051,2.319-1.667"/>
+<path fill="none" stroke="#000000" d="M452.25,13.525c3.935-0.539,7.869-0.321,11.904,0.132c5.006,0.563,9.266-0.16,14.419-0.132  c12.251,0.066,25.408,0.714,37.812,1.772c12.183,1.039,24.306,0.151,36.446,0.741c7.937,0.386,17.239-2.67,24.952-1.204  c-0.308,1.144-0.93,0.688-1.725,1.072"/>
+<set attributeName="stroke-dashoffset" to="600" dur="indefinite"/>
+<animate attributeName="stroke-dashoffset" values="600;0" dur="4s" begin="0.1s" repeatCount="0"/>
+<set attributeName="stroke-dashoffset" to="0" begin="4.1s" dur="indefinite"/>	
+</g>
+</svg>
