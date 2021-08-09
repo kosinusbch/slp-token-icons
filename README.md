@@ -4,7 +4,7 @@ A hosted repository of all known SLP token icons. All tokens added here will be 
 
 ## Adding your icon
 
-Create a version of your PNG icon in 32x32, 64x64, 128x128 and "original" (more than or equal to 128px) and add them to their respective folders in a pull request. If you have a SVG file, feel free to add that to (though SVG's will not be served from the endpoint).
+Create a version of your PNG icon in 32x32, 64x64, 128x128 and "original" (more than or equal to 128x128) and add them to their respective folders in a pull request. If you have a SVG file, feel free to add that too (though SVG's will not be served from the endpoint).
 
 ## Have a NFT icon?
 
