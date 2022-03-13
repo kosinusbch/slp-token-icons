@@ -6,6 +6,9 @@ A hosted repository of all known SLP token icons. All tokens added here will be 
 
 Create a version of your icon **(must be a PNG)** in 32x32, 64x64, 128x128 and "original" (more than or equal to 128x128) and add them to their respective folders in a pull request. If you have a SVG file, feel free to add that too (though SVG's will not be served from the endpoint).
 
+## Easy way to upload icon
+You can use https://slp-icons.salemkode.com to upload your original square logo image and it will create the necessary sizes and push it to the repo without having to do it manually
+
 ## Have a NFT icon?
 
 Since a lot of NFT Groups have too many children, they will have to run their own icon repositories. Contact the creators of https://juungle.net to get your NFT icon added to all NFT-supported services.
